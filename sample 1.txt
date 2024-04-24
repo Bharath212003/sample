@@ -1,2 +1,3 @@
 this is git example
 i have added new line on the remote repositary
+git add commite 
