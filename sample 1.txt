@@ -1,3 +1,7 @@
 this is git example
 i have added new line on the remote repositary
+<<<<<<< HEAD
 git add commite 
+=======
+git commit
+>>>>>>> c548eac45943a389e929250ae2823758ea6fb817
